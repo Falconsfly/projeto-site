@@ -1,2 +1,2 @@
 # projeto-site
- Acho que criarei um site.
+ Projeto de um site criado durante o curso de Git e GitHub.
