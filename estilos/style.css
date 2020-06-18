@@ -5,12 +5,12 @@
 }
 
 body {
-    background-color: ghostwhite;
+    background-color: darkcyan;
 
 }
 
 main {
-    background-color: darkcyan;
+    background-color: ghostwhite;
     width: 500px;
     margin: auto;
     padding: 10px;
